@@ -60,13 +60,13 @@
 
 ## 📊 GitHub Stats
 
-![](https://nirzak-streak-stats.vercel.app/?user=Anuj-0-3&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Anuj-0-3&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://nirzak-streak-stats.vercel.app/?user=Anujsinghdevx&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Anujsinghdevx&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
 ## 🐍 Watch my contributions get eaten by a Snake!
-![snake gif](https://Anuj-0-3.github.io/snk/github-contribution-grid-snake.svg)
+![snake gif](https://Anujsinghdevx.github.io/snk/github-contribution-grid-snake.svg)
 
 ---
 
